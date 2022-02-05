@@ -1,0 +1,1 @@
+This is an initial commit with all the features implemented, working, and passing tests, with the exception of mock server bug handling (disabled for now). The app will be resubmitted with bug handling and a more detailed README file at a later point. Some changes to UI are also expected. Please install react-toastify for this version.
